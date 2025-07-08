@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tofoi\\source\\repos\\MyPlanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDE6334-241E-473B-95DD-1A57E3AA1AEB}|MyPlanner\\MyPlanner.csproj|c:\\users\\tofoi\\source\\repos\\myplanner\\myplanner\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDE6334-241E-473B-95DD-1A57E3AA1AEB}|MyPlanner\\MyPlanner.csproj|solutionrelative:myplanner\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDE6334-241E-473B-95DD-1A57E3AA1AEB}|MyPlanner\\MyPlanner.csproj|c:\\users\\tofoi\\source\\repos\\myplanner\\myplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDE6334-241E-473B-95DD-1A57E3AA1AEB}|MyPlanner\\MyPlanner.csproj|solutionrelative:myplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDE6334-241E-473B-95DD-1A57E3AA1AEB}|MyPlanner\\MyPlanner.csproj|c:\\users\\tofoi\\source\\repos\\myplanner\\myplanner\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BDE6334-241E-473B-95DD-1A57E3AA1AEB}|MyPlanner\\MyPlanner.csproj|solutionrelative:myplanner\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDE6334-241E-473B-95DD-1A57E3AA1AEB}|MyPlanner\\MyPlanner.csproj|c:\\users\\tofoi\\source\\repos\\myplanner\\myplanner\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDE6334-241E-473B-95DD-1A57E3AA1AEB}|MyPlanner\\MyPlanner.csproj|solutionrelative:myplanner\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDE6334-241E-473B-95DD-1A57E3AA1AEB}|MyPlanner\\MyPlanner.csproj|c:\\users\\tofoi\\source\\repos\\myplanner\\myplanner\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDE6334-241E-473B-95DD-1A57E3AA1AEB}|MyPlanner\\MyPlanner.csproj|solutionrelative:myplanner\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDE6334-241E-473B-95DD-1A57E3AA1AEB}|MyPlanner\\MyPlanner.csproj|c:\\users\\tofoi\\source\\repos\\myplanner\\myplanner\\data\\financecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDE6334-241E-473B-95DD-1A57E3AA1AEB}|MyPlanner\\MyPlanner.csproj|solutionrelative:myplanner\\data\\financecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDE6334-241E-473B-95DD-1A57E3AA1AEB}|MyPlanner\\MyPlanner.csproj|c:\\users\\tofoi\\source\\repos\\myplanner\\myplanner\\models\\moneybox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDE6334-241E-473B-95DD-1A57E3AA1AEB}|MyPlanner\\MyPlanner.csproj|solutionrelative:myplanner\\models\\moneybox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\tofoi\\source\\repos\\MyPlanner\\MyPlanner\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "MyPlanner\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\tofoi\\source\\repos\\MyPlanner\\MyPlanner\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "MyPlanner\\Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wCoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:12:35.865Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\tofoi\\source\\repos\\MyPlanner\\MyPlanner\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyPlanner\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\tofoi\\source\\repos\\MyPlanner\\MyPlanner\\appsettings.Development.json",
+              "RelativeToolTip": "MyPlanner\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T16:36:36.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tofoi\\source\\repos\\MyPlanner\\MyPlanner\\Program.cs",
+              "RelativeDocumentMoniker": "MyPlanner\\Program.cs",
+              "ToolTip": "C:\\Users\\tofoi\\source\\repos\\MyPlanner\\MyPlanner\\Program.cs",
+              "RelativeToolTip": "MyPlanner\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAASwCsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:25:34.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\tofoi\\source\\repos\\MyPlanner\\MyPlanner\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MyPlanner\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\tofoi\\source\\repos\\MyPlanner\\MyPlanner\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MyPlanner\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAArwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:54:21.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Moneybox.cs",
+              "DocumentMoniker": "C:\\Users\\tofoi\\source\\repos\\MyPlanner\\MyPlanner\\Models\\Moneybox.cs",
+              "RelativeDocumentMoniker": "MyPlanner\\Models\\Moneybox.cs",
+              "ToolTip": "C:\\Users\\tofoi\\source\\repos\\MyPlanner\\MyPlanner\\Models\\Moneybox.cs",
+              "RelativeToolTip": "MyPlanner\\Models\\Moneybox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:08:19.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FinanceContext.cs",
+              "DocumentMoniker": "C:\\Users\\tofoi\\source\\repos\\MyPlanner\\MyPlanner\\Data\\FinanceContext.cs",
+              "RelativeDocumentMoniker": "MyPlanner\\Data\\FinanceContext.cs",
+              "ToolTip": "C:\\Users\\tofoi\\source\\repos\\MyPlanner\\MyPlanner\\Data\\FinanceContext.cs",
+              "RelativeToolTip": "MyPlanner\\Data\\FinanceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T01:51:39.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\tofoi\\source\\repos\\MyPlanner\\MyPlanner\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "MyPlanner\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\tofoi\\source\\repos\\MyPlanner\\MyPlanner\\Models\\Transaction.cs",
+              "RelativeToolTip": "MyPlanner\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T01:50:58.923Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# React
+node_modules/
+build/
+.env
+
+# General
+.DS_Store
+Thumbs.db
